@@ -14,3 +14,13 @@ Contents of the Repository include:
 4. **methods.md**
 5. **GOOG1.csv**
 6. **results.md**
+
+Done under the Supervision of:
+
+Dr. Siddhaling Urolagin, 
+
+PhD, Post-Doc, (Machine Learning),
+
+dr.siddhaling@gmail.com,
+
+www.github.com/siddhaling

@@ -20,4 +20,14 @@ The attributes present in the dataset include:
 
 **7. Volume** : The dollar volume is the total value of the shares traded.
 
+<img width="1080" alt="Picture1" src="https://user-images.githubusercontent.com/94802791/144750350-bb69ceff-8979-4ee7-b7a2-d0101019890c.png">
+
+<img width="1080" alt="Picture2" src="https://user-images.githubusercontent.com/94802791/144750378-7c95db04-ad6a-4603-a30a-d53fc59807c7.png">
+
+<img width="1080" alt="Picture3" src="https://user-images.githubusercontent.com/94802791/144750353-5c4bb866-9435-4165-a105-6c3a98c64fc9.png">
+
+<img width="1080" alt="Picture4" src="https://user-images.githubusercontent.com/94802791/144750352-67808fae-cfc4-44f4-b90c-0fbe40fdab48.png">
+
+<img width="1080" alt="Picture5" src="https://user-images.githubusercontent.com/94802791/144750382-a453a29e-21bd-4538-847c-cfb878580ae2.png">
+
 Indepth Analysis of the Datasource is carried out [here](https://docs.google.com/document/d/1UWmtbuTmxQlfMxqFlgPN8NV8hKT0m5206d3IMYAODZY/edit?usp=sharing).

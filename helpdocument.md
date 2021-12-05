@@ -1,12 +1,12 @@
-> **Help Document**
+> ****Help Document****
 
 The following code is written completely in python with the help of a few additional python libraries. 
 
 Here are all the dependencies and libraries that we have used to create our prediction model.
 
-**pandas **: Used for database computation and cleaning up given databases. 
+**pandas** : Used for database computation and cleaning up given databases. 
 
-**numpy**: NumPy can be used to perform a wide variety of mathematical operations on arrays. It adds powerful data structures to Python that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
+**numpy** : NumPy can be used to perform a wide variety of mathematical operations on arrays. It adds powerful data structures to Python that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
 
 **sklearn** : Python library used to import MinMax Scaler.
 

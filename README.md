@@ -12,4 +12,6 @@ Contents of the Repository include:
 2. **datasource.md**
 3. **helpdocument.md**
 4. **methods.md**
-5. **results.md**
+5. **GOOG1.csv**
+6. **trainData.csv**
+7. **results.md**

@@ -1,6 +1,6 @@
 > ****Help Document****
 
-The following code is written completely in python with the help of a few additional python libraries. 
+The following code is written completely in python with the help of a few additional python libraries.  //The File for the same is located [here](https://docs.google.com/document/d/1ixsi7TJbtyuDwI1vcI-1KeMtXNCqiyWiavZEPWoxU2s/edit?usp=sharing).
 
 Here are all the dependencies and libraries that we have used to create our prediction model.
 
